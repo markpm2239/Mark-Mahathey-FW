@@ -1,0 +1,13 @@
+public class Animal {
+//inheritance works one way
+public string Name {get; set}
+
+}
+public class Dog:Animal {
+
+
+}
+public class AnotherClass {
+//you can only inherit one class
+
+}

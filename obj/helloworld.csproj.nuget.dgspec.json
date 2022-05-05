@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\markm\\documents\\revature\\helloworld\\helloworld.csproj": {}
+    "C:\\Users\\markm\\Documents\\revature\\helloworld\\helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\markm\\documents\\revature\\helloworld\\helloworld.csproj": {
+    "C:\\Users\\markm\\Documents\\revature\\helloworld\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\markm\\documents\\revature\\helloworld\\helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\markm\\Documents\\revature\\helloworld\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "C:\\Users\\markm\\documents\\revature\\helloworld\\helloworld.csproj",
+        "projectPath": "C:\\Users\\markm\\Documents\\revature\\helloworld\\helloworld.csproj",
         "packagesPath": "C:\\Users\\markm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\markm\\documents\\revature\\helloworld\\obj\\",
+        "outputPath": "C:\\Users\\markm\\Documents\\revature\\helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\markm\\AppData\\Roaming\\NuGet\\NuGet.Config",

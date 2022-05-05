@@ -1,0 +1,6 @@
+public class Car
+{
+// fields used to store infomatio
+public string _color
+
+}
